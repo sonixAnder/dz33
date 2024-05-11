@@ -1,0 +1,3 @@
+﻿  the longest line in the file.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\the longest line in the file\the longest line in the file\the longest line in the file.cpp(28,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  the longest line in the file.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\the longest line in the file\x64\Debug\the longest line in the file.exe
